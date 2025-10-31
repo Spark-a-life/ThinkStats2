@@ -1,0 +1,282 @@
+[
+  {
+    "title": "Optimized Log Parsing with Syntactic Modifications",
+    "authors": [
+      "Nafid Enan",
+      "Gias Uddin"
+    ],
+    "year": "2025",
+    "abstract": "Logs provide valuable insights into system runtime and assist in software development and maintenance. Log parsing, which converts semi-structured log data into structured log data, is often the first...",
+    "url": "http://arxiv.org/abs/2510.26793v1",
+    "arxiv_id": "http://arxiv.org/abs/2510.26793v1",
+    "source": "arXiv"
+  },
+  {
+    "title": "Defeating the Training-Inference Mismatch via FP16",
+    "authors": [
+      "Penghui Qi",
+      "Zichen Liu",
+      "Xiangxin Zhou",
+      "Tianyu Pang",
+      "Chao Du",
+      "Wee Sun Lee",
+      "Min Lin"
+    ],
+    "year": "2025",
+    "abstract": "Reinforcement learning (RL) fine-tuning of large language models (LLMs) often suffers from instability due to the numerical mismatch between the training and inference policies. While prior work has a...",
+    "url": "http://arxiv.org/abs/2510.26788v1",
+    "arxiv_id": "http://arxiv.org/abs/2510.26788v1",
+    "source": "arXiv"
+  },
+  {
+    "title": "Remote Labor Index: Measuring AI Automation of Remote Work",
+    "authors": [
+      "Mantas Mazeika",
+      "Alice Gatti",
+      "Cristina Menghini",
+      "Udari Madhushani Sehwag",
+      "Shivam Singhal",
+      "Yury Orlovskiy",
+      "Steven Basart",
+      "Manasi Sharma",
+      "Denis Peskoff",
+      "Elaine Lau",
+      "Jaehyuk Lim",
+      "Lachlan Carroll",
+      "Alice Blair",
+      "Vinaya Sivakumar",
+      "Sumana Basu",
+      "Brad Kenstler",
+      "Yuntao Ma",
+      "Julian Michael",
+      "Xiaoke Li",
+      "Oliver Ingebretsen",
+      "Aditya Mehta",
+      "Jean Mottola",
+      "John Teichmann",
+      "Kevin Yu",
+      "Zaina Shaik",
+      "Adam Khoja",
+      "Richard Ren",
+      "Jason Hausenloy",
+      "Long Phan",
+      "Ye Htet",
+      "Ankit Aich",
+      "Tahseen Rabbani",
+      "Vivswan Shah",
+      "Andriy Novykov",
+      "Felix Binder",
+      "Kirill Chugunov",
+      "Luis Ramirez",
+      "Matias Geralnik",
+      "Hernán Mesura",
+      "Dean Lee",
+      "Ed-Yeremai Hernandez Cardona",
+      "Annette Diamond",
+      "Summer Yue",
+      "Alexandr Wang",
+      "Bing Liu",
+      "Ernesto Hernandez",
+      "Dan Hendrycks"
+    ],
+    "year": "2025",
+    "abstract": "AIs have made rapid progress on research-oriented benchmarks of knowledge and reasoning, but it remains unclear how these gains translate into economic value and automation. To measure this, we introd...",
+    "url": "http://arxiv.org/abs/2510.26787v1",
+    "arxiv_id": "http://arxiv.org/abs/2510.26787v1",
+    "source": "arXiv"
+  },
+  {
+    "title": "HDReason: Algorithm-Hardware Codesign for Hyperdimensional Knowledge Graph Reasoning",
+    "authors": "Hanning Chen, Yang Ni, Ali Zakeri, Zhuowen Zou, Sanggeon Yun et al.",
+    "year": 2024,
+    "venue": "arXiv.org",
+    "citation_count": 7,
+    "url": "https://www.semanticscholar.org/paper/f8efcf6aa53ab3f16cf52ecb3c1c9a7e992edd6f",
+    "abstract": "In recent times, a plethora of hardware accelerators have been put forth for graph learning applications such as vertex classification and graph classification. However, previous works have paid littl...",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "Using HW/SW Codesign for Deep Neural Network Hardware Accelerator Targeting Low-Resources Embedded Processors",
+    "authors": "E. Manor, S. Greenberg",
+    "year": 2022,
+    "venue": "IEEE Access",
+    "citation_count": 7,
+    "url": "https://www.semanticscholar.org/paper/19e8420be9db5b504b6c20230954168cc792148b",
+    "abstract": "The usage of RISC-based embedded processors, aimed at low cost and low power, is becoming an increasingly popular ecosystem for both hardware and software development. High performance yet low power e...",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "DANoC: An Efficient Algorithm and Hardware Codesign of Deep Neural Networks on Chip",
+    "authors": "Xichuan Zhou, Shengli Li, Fang Tang, Shengdong Hu, Zhi Lin et al.",
+    "year": 2018,
+    "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+    "citation_count": 15,
+    "url": "https://www.semanticscholar.org/paper/41fa65a18316042c5fdf85a5c5191788b833eded",
+    "abstract": "Deep neural networks (NNs) are the state-of-the-art models for understanding the content of images and videos. However, implementing deep NNs in embedded systems is a challenging task, e.g., a typical...",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "An Energy-aware Spiking Neural Network Hardware Mapping based on Particle Swarm Optimization and Genetic Algorithm",
+    "authors": "Junxiu Liu, Xingyue Huang, Dong Jiang, Yuling Luo",
+    "year": 2020,
+    "venue": "International Conference on Hardware/Software Codesign and System Synthesis",
+    "citation_count": 4,
+    "url": "https://www.semanticscholar.org/paper/9b30190eca948f8df512e29cb4292961864f77fb",
+    "abstract": "Spiking Neuron Network (SNN) is a biological neural network model which shows great capability in the time series data processing and pattern recognition etc. according to the recent research. It has ...",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "Optimizing Supervised Learning of Deep Spiking Neural Network towards Memristor Crossbar Implementation",
+    "authors": "Qi Chen, Dayou Zhang, Jiawei Fu, Yuhui He",
+    "year": 2023,
+    "venue": "International Conference on ASIC",
+    "citation_count": 0,
+    "url": "https://www.semanticscholar.org/paper/cc40a1047c7444545801a58b4d4c46afcf6fb94f",
+    "abstract": "The gradient-based direct training with spike timing coding known as one major approach to supervised learning of deep spiking neural network often encounters problems like failure of convergence and ...",
+    "source": "Semantic Scholar"
+  },
+  {
+    "title": "Surpassing state of the art on AMD area estimation from RGB fundus   images through careful selection of U-Net architectures and loss functions   for class imbalance",
+    "authors": [
+      "Valentyna Starodub",
+      "Mantas Lukoševičius"
+    ],
+    "year": "2025",
+    "abstract": "Age-related macular degeneration (AMD) is one of the leading causes of irreversible vision impairment in people over the age of 60. This research focuses on semantic segmentation for AMD lesion detect...",
+    "url": "http://arxiv.org/abs/2510.26778v1",
+    "arxiv_id": "http://arxiv.org/abs/2510.26778v1",
+    "source": "arXiv"
+  },
+  {
+    "title": "Geometry of the stability scattering diagram for $\\mathbb{P}^2$ and   applications",
+    "authors": [
+      "Mark Gross",
+      "Fatemeh Rezaee"
+    ],
+    "year": "2025",
+    "abstract": "We give a detailed analysis of the stability scattering diagram for $\\mathbb{P}^2$ introduced by Bousseau. This scattering diagram lives in a subset of $\\mathbb{R}^2$, and we decompose this subset int...",
+    "url": "http://arxiv.org/abs/2510.26770v1",
+    "arxiv_id": "http://arxiv.org/abs/2510.26770v1",
+    "source": "arXiv"
+  },
+  {
+    "title": "STaMP: Sequence Transformation and Mixed Precision for Low-Precision   Activation Quantization",
+    "authors": [
+      "Marco Federici",
+      "Riccardo Del Chiaro",
+      "Boris van Breugel",
+      "Paul Whatmough",
+      "Markus Nagel"
+    ],
+    "year": "2025",
+    "abstract": "Quantization is the key method for reducing inference latency, power and memory footprint of generative AI models. However, accuracy often degrades sharply when activations are quantized below eight b...",
+    "url": "http://arxiv.org/abs/2510.26771v1",
+    "arxiv_id": "http://arxiv.org/abs/2510.26771v1",
+    "source": "arXiv"
+  },
+  {
+    "title": "The Oversight Game: Learning to Cooperatively Balance an AI Agent's   Safety and Autonomy",
+    "authors": [
+      "William Overman",
+      "Mohsen Bayati"
+    ],
+    "year": "2025",
+    "abstract": "As increasingly capable agents are deployed, a central safety question is how to retain meaningful human control without modifying the underlying system. We study a minimal control interface where an ...",
+    "url": "http://arxiv.org/abs/2510.26752v1",
+    "arxiv_id": "http://arxiv.org/abs/2510.26752v1",
+    "source": "arXiv"
+  },
+  {
+    "title": "Neither Consent nor Property: A Policy Lab for Data Law",
+    "authors": [
+      "Haoyi Zhang",
+      "Tianyi Zhu"
+    ],
+    "year": "2025",
+    "abstract": "This paper makes the opaque data market in the AI economy empirically legible for the first time, constructing a computational testbed to address a core epistemic failure: regulators governing a marke...",
+    "url": "http://arxiv.org/abs/2510.26727v1",
+    "arxiv_id": "http://arxiv.org/abs/2510.26727v1",
+    "source": "arXiv"
+  },
+  {
+    "title": "Orbital Optimization and Neural-Network-Assisted Configuration   Interaction Calculations of Rydberg States",
+    "authors": [
+      "Gianluca Levi",
+      "Max Kroesbergen",
+      "Louis Thirion",
+      "Yorick L. A. Schmerwitz",
+      "Elvar Ö. Jónsson",
+      "Pavlo Bilous",
+      "Philipp Hansmann",
+      "Hannes Jónsson"
+    ],
+    "year": "2025",
+    "abstract": "Rydberg excited states of molecules pose a challenge for electronic structure calculations because of their highly diffuse electron distribution. Even large and elaborate atomic basis sets tend to und...",
+    "url": "http://arxiv.org/abs/2510.26751v1",
+    "arxiv_id": "http://arxiv.org/abs/2510.26751v1",
+    "source": "arXiv"
+  },
+  {
+    "title": "Masked Diffusion Captioning for Visual Feature Learning",
+    "authors": [
+      "Chao Feng",
+      "Zihao Wei",
+      "Andrew Owens"
+    ],
+    "year": "2025",
+    "abstract": "We learn visual features by captioning images with an image-conditioned masked diffusion language model, a formulation we call masked diffusion captioning (MDC). During training, text tokens in each i...",
+    "url": "http://arxiv.org/abs/2510.26799v1",
+    "arxiv_id": "http://arxiv.org/abs/2510.26799v1",
+    "source": "arXiv"
+  },
+  {
+    "title": "SEE4D: Pose-Free 4D Generation via Auto-Regressive Video Inpainting",
+    "authors": [
+      "Dongyue Lu",
+      "Ao Liang",
+      "Tianxin Huang",
+      "Xiao Fu",
+      "Yuyang Zhao",
+      "Baorui Ma",
+      "Liang Pan",
+      "Wei Yin",
+      "Lingdong Kong",
+      "Wei Tsang Ooi",
+      "Ziwei Liu"
+    ],
+    "year": "2025",
+    "abstract": "Immersive applications call for synthesizing spatiotemporal 4D content from casual videos without costly 3D supervision. Existing video-to-4D methods typically rely on manually annotated camera poses,...",
+    "url": "http://arxiv.org/abs/2510.26796v1",
+    "arxiv_id": "http://arxiv.org/abs/2510.26796v1",
+    "source": "arXiv"
+  },
+  {
+    "title": "Scaling Image Geo-Localization to Continent Level",
+    "authors": [
+      "Philipp Lindenberger",
+      "Paul-Edouard Sarlin",
+      "Jan Hosang",
+      "Matteo Balice",
+      "Marc Pollefeys",
+      "Simon Lynen",
+      "Eduard Trulls"
+    ],
+    "year": "2025",
+    "abstract": "Determining the precise geographic location of an image at a global scale remains an unsolved challenge. Standard image retrieval techniques are inefficient due to the sheer volume of images (>100M) a...",
+    "url": "http://arxiv.org/abs/2510.26795v1",
+    "arxiv_id": "http://arxiv.org/abs/2510.26795v1",
+    "source": "arXiv"
+  },
+  {
+    "title": "Resonating-valence-bond superconductor from small Fermi surface in   twisted bilayer graphene",
+    "authors": [
+      "Jing-Yu Zhao",
+      "Ya-Hui Zhang"
+    ],
+    "year": "2025",
+    "abstract": "Mechanism of superconductivity in twisted bilayer graphene (TBG) remains one of the central problems in strongly correlated topological systems. The most intriguing question is about the nature of the...",
+    "url": "http://arxiv.org/abs/2510.26801v1",
+    "arxiv_id": "http://arxiv.org/abs/2510.26801v1",
+    "source": "arXiv"
+  }
+]

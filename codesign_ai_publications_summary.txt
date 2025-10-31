@@ -1,0 +1,152 @@
+Codesign and AI Researcher Publications
+================================================================================
+
+1. Optimized Log Parsing with Syntactic Modifications
+   Authors: Nafid Enan, Gias Uddin
+   Year: 2025
+   URL: http://arxiv.org/abs/2510.26793v1
+   arXiv ID: http://arxiv.org/abs/2510.26793v1
+   Abstract: Logs provide valuable insights into system runtime and assist in software development and maintenance. Log parsing, which converts semi-structured log data into structured log data, is often the first...
+   Source: arXiv
+
+2. Defeating the Training-Inference Mismatch via FP16
+   Authors: Penghui Qi, Zichen Liu, Xiangxin Zhou, Tianyu Pang, Chao Du et al.
+   Year: 2025
+   URL: http://arxiv.org/abs/2510.26788v1
+   arXiv ID: http://arxiv.org/abs/2510.26788v1
+   Abstract: Reinforcement learning (RL) fine-tuning of large language models (LLMs) often suffers from instability due to the numerical mismatch between the training and inference policies. While prior work has a...
+   Source: arXiv
+
+3. Remote Labor Index: Measuring AI Automation of Remote Work
+   Authors: Mantas Mazeika, Alice Gatti, Cristina Menghini, Udari Madhushani Sehwag, Shivam Singhal et al.
+   Year: 2025
+   URL: http://arxiv.org/abs/2510.26787v1
+   arXiv ID: http://arxiv.org/abs/2510.26787v1
+   Abstract: AIs have made rapid progress on research-oriented benchmarks of knowledge and reasoning, but it remains unclear how these gains translate into economic value and automation. To measure this, we introd...
+   Source: arXiv
+
+4. HDReason: Algorithm-Hardware Codesign for Hyperdimensional Knowledge Graph Reasoning
+   Authors: Hanning Chen, Yang Ni, Ali Zakeri, Zhuowen Zou, Sanggeon Yun et al.
+   Year: 2024
+   Venue: arXiv.org
+   Citations: 7
+   URL: https://www.semanticscholar.org/paper/f8efcf6aa53ab3f16cf52ecb3c1c9a7e992edd6f
+   Abstract: In recent times, a plethora of hardware accelerators have been put forth for graph learning applications such as vertex classification and graph classification. However, previous works have paid littl...
+   Source: Semantic Scholar
+
+5. Using HW/SW Codesign for Deep Neural Network Hardware Accelerator Targeting Low-Resources Embedded Processors
+   Authors: E. Manor, S. Greenberg
+   Year: 2022
+   Venue: IEEE Access
+   Citations: 7
+   URL: https://www.semanticscholar.org/paper/19e8420be9db5b504b6c20230954168cc792148b
+   Abstract: The usage of RISC-based embedded processors, aimed at low cost and low power, is becoming an increasingly popular ecosystem for both hardware and software development. High performance yet low power e...
+   Source: Semantic Scholar
+
+6. DANoC: An Efficient Algorithm and Hardware Codesign of Deep Neural Networks on Chip
+   Authors: Xichuan Zhou, Shengli Li, Fang Tang, Shengdong Hu, Zhi Lin et al.
+   Year: 2018
+   Venue: IEEE Transactions on Neural Networks and Learning Systems
+   Citations: 15
+   URL: https://www.semanticscholar.org/paper/41fa65a18316042c5fdf85a5c5191788b833eded
+   Abstract: Deep neural networks (NNs) are the state-of-the-art models for understanding the content of images and videos. However, implementing deep NNs in embedded systems is a challenging task, e.g., a typical...
+   Source: Semantic Scholar
+
+7. An Energy-aware Spiking Neural Network Hardware Mapping based on Particle Swarm Optimization and Genetic Algorithm
+   Authors: Junxiu Liu, Xingyue Huang, Dong Jiang, Yuling Luo
+   Year: 2020
+   Venue: International Conference on Hardware/Software Codesign and System Synthesis
+   Citations: 4
+   URL: https://www.semanticscholar.org/paper/9b30190eca948f8df512e29cb4292961864f77fb
+   Abstract: Spiking Neuron Network (SNN) is a biological neural network model which shows great capability in the time series data processing and pattern recognition etc. according to the recent research. It has ...
+   Source: Semantic Scholar
+
+8. Optimizing Supervised Learning of Deep Spiking Neural Network towards Memristor Crossbar Implementation
+   Authors: Qi Chen, Dayou Zhang, Jiawei Fu, Yuhui He
+   Year: 2023
+   Venue: International Conference on ASIC
+   Citations: 0
+   URL: https://www.semanticscholar.org/paper/cc40a1047c7444545801a58b4d4c46afcf6fb94f
+   Abstract: The gradient-based direct training with spike timing coding known as one major approach to supervised learning of deep spiking neural network often encounters problems like failure of convergence and ...
+   Source: Semantic Scholar
+
+9. Surpassing state of the art on AMD area estimation from RGB fundus   images through careful selection of U-Net architectures and loss functions   for class imbalance
+   Authors: Valentyna Starodub, Mantas Lukoševičius
+   Year: 2025
+   URL: http://arxiv.org/abs/2510.26778v1
+   arXiv ID: http://arxiv.org/abs/2510.26778v1
+   Abstract: Age-related macular degeneration (AMD) is one of the leading causes of irreversible vision impairment in people over the age of 60. This research focuses on semantic segmentation for AMD lesion detect...
+   Source: arXiv
+
+10. Geometry of the stability scattering diagram for $\mathbb{P}^2$ and   applications
+   Authors: Mark Gross, Fatemeh Rezaee
+   Year: 2025
+   URL: http://arxiv.org/abs/2510.26770v1
+   arXiv ID: http://arxiv.org/abs/2510.26770v1
+   Abstract: We give a detailed analysis of the stability scattering diagram for $\mathbb{P}^2$ introduced by Bousseau. This scattering diagram lives in a subset of $\mathbb{R}^2$, and we decompose this subset int...
+   Source: arXiv
+
+11. STaMP: Sequence Transformation and Mixed Precision for Low-Precision   Activation Quantization
+   Authors: Marco Federici, Riccardo Del Chiaro, Boris van Breugel, Paul Whatmough, Markus Nagel
+   Year: 2025
+   URL: http://arxiv.org/abs/2510.26771v1
+   arXiv ID: http://arxiv.org/abs/2510.26771v1
+   Abstract: Quantization is the key method for reducing inference latency, power and memory footprint of generative AI models. However, accuracy often degrades sharply when activations are quantized below eight b...
+   Source: arXiv
+
+12. The Oversight Game: Learning to Cooperatively Balance an AI Agent's   Safety and Autonomy
+   Authors: William Overman, Mohsen Bayati
+   Year: 2025
+   URL: http://arxiv.org/abs/2510.26752v1
+   arXiv ID: http://arxiv.org/abs/2510.26752v1
+   Abstract: As increasingly capable agents are deployed, a central safety question is how to retain meaningful human control without modifying the underlying system. We study a minimal control interface where an ...
+   Source: arXiv
+
+13. Neither Consent nor Property: A Policy Lab for Data Law
+   Authors: Haoyi Zhang, Tianyi Zhu
+   Year: 2025
+   URL: http://arxiv.org/abs/2510.26727v1
+   arXiv ID: http://arxiv.org/abs/2510.26727v1
+   Abstract: This paper makes the opaque data market in the AI economy empirically legible for the first time, constructing a computational testbed to address a core epistemic failure: regulators governing a marke...
+   Source: arXiv
+
+14. Orbital Optimization and Neural-Network-Assisted Configuration   Interaction Calculations of Rydberg States
+   Authors: Gianluca Levi, Max Kroesbergen, Louis Thirion, Yorick L. A. Schmerwitz, Elvar Ö. Jónsson et al.
+   Year: 2025
+   URL: http://arxiv.org/abs/2510.26751v1
+   arXiv ID: http://arxiv.org/abs/2510.26751v1
+   Abstract: Rydberg excited states of molecules pose a challenge for electronic structure calculations because of their highly diffuse electron distribution. Even large and elaborate atomic basis sets tend to und...
+   Source: arXiv
+
+15. Masked Diffusion Captioning for Visual Feature Learning
+   Authors: Chao Feng, Zihao Wei, Andrew Owens
+   Year: 2025
+   URL: http://arxiv.org/abs/2510.26799v1
+   arXiv ID: http://arxiv.org/abs/2510.26799v1
+   Abstract: We learn visual features by captioning images with an image-conditioned masked diffusion language model, a formulation we call masked diffusion captioning (MDC). During training, text tokens in each i...
+   Source: arXiv
+
+16. SEE4D: Pose-Free 4D Generation via Auto-Regressive Video Inpainting
+   Authors: Dongyue Lu, Ao Liang, Tianxin Huang, Xiao Fu, Yuyang Zhao et al.
+   Year: 2025
+   URL: http://arxiv.org/abs/2510.26796v1
+   arXiv ID: http://arxiv.org/abs/2510.26796v1
+   Abstract: Immersive applications call for synthesizing spatiotemporal 4D content from casual videos without costly 3D supervision. Existing video-to-4D methods typically rely on manually annotated camera poses,...
+   Source: arXiv
+
+17. Scaling Image Geo-Localization to Continent Level
+   Authors: Philipp Lindenberger, Paul-Edouard Sarlin, Jan Hosang, Matteo Balice, Marc Pollefeys et al.
+   Year: 2025
+   URL: http://arxiv.org/abs/2510.26795v1
+   arXiv ID: http://arxiv.org/abs/2510.26795v1
+   Abstract: Determining the precise geographic location of an image at a global scale remains an unsolved challenge. Standard image retrieval techniques are inefficient due to the sheer volume of images (>100M) a...
+   Source: arXiv
+
+18. Resonating-valence-bond superconductor from small Fermi surface in   twisted bilayer graphene
+   Authors: Jing-Yu Zhao, Ya-Hui Zhang
+   Year: 2025
+   URL: http://arxiv.org/abs/2510.26801v1
+   arXiv ID: http://arxiv.org/abs/2510.26801v1
+   Abstract: Mechanism of superconductivity in twisted bilayer graphene (TBG) remains one of the central problems in strongly correlated topological systems. The most intriguing question is about the nature of the...
+   Source: arXiv
+
